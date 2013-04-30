@@ -64,3 +64,7 @@ function run() {
     log.add("Fedex Strategy: " + shipping.calculate(package));
 
     log.show();
+    
+}
+
+run();
